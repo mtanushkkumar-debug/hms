@@ -1,0 +1,30 @@
+# ======================
+# Backend (Spring Boot)
+# ======================
+hms-backend/target/
+hms-backend/.mvn/wrapper/maven-wrapper.jar
+hms-backend/.env
+hms-backend/.env.*
+
+# ======================
+# Frontend (React/Vite)
+# ======================
+hms-frontend/node_modules/
+hms-frontend/dist/
+hms-frontend/.env
+hms-frontend/.env.*
+
+# ======================
+# IDE Files
+# ======================
+.vscode/
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# ======================
+# OS Files
+# ======================
+.DS_Store
+Thumbs.db
